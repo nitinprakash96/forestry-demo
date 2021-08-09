@@ -1,4 +1,20 @@
 ---
 label: Math articles
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: title
+  description: This is the title of the article
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: description
+  description: This is the required description of the article.
