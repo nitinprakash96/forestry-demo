@@ -15,6 +15,5 @@ description: "In vector calculus, **divergence** is a vector operator that opera
   z}}\\\\right)\\\\cdot (F_{x},F_{y},F_{z})={\\\\frac {\\\\partial F_{x}}{\\\\partial
   x}}+{\\\\frac {\\\\partial F_{y}}{\\\\partial y}}+{\\\\frac {\\\\partial F_{z}}{\\\\partial
   z}}.}](https://wikimedia.org/api/rest_v1/media/math/render/svg/b95fd343e0fe05b65d6096aa75a6c0921c33176d)"
-published: false
 
 ---
