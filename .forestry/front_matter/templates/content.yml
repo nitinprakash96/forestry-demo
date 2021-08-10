@@ -3,4 +3,4 @@ label: Content
 hide_body: false
 fields: []
 pages:
-- curl.md.md
+- curl.md
