@@ -7,7 +7,6 @@ sections:
 - type: document
   path: maths_draft
   label: post
-  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all

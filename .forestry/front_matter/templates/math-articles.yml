@@ -2,22 +2,15 @@
 label: Math articles
 hide_body: true
 fields:
-- name: title
-  type: text
-  config:
-    required: true
-  label: title
-  description: This is the title of the article
 - name: description
   type: textarea
   default: ''
   config:
-    required: true
-    wysiwyg: true
+    required: false
+    wysiwyg: false
     schema:
       format: markdown
   label: description
-  description: This is the required description of the article.
 pages:
 - maths/divergence.md
 - maths/divergence.md
