@@ -4,10 +4,13 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: maths_draft
+  label: post
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
-  match: "**/*"
 - type: jekyll-pages
   label: Content
   create: all
