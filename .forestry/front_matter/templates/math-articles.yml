@@ -20,3 +20,4 @@ fields:
   description: This is the required description of the article.
 pages:
 - maths/divergence.md
+- maths/divergence.md

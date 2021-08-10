@@ -7,7 +7,6 @@ sections:
 - type: jekyll-pages
   label: Content
   create: all
-  match: "**/*"
 - type: directory
   path: maths
   label: Math articles
