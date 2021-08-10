@@ -3,5 +3,6 @@ label: Content
 hide_body: false
 fields: []
 pages:
+- _posts/maths/divergence.md
 - curl.md
 - greensTheorem.md
