@@ -18,3 +18,5 @@ fields:
       format: markdown
   label: description
   description: This is the required description of the article.
+pages:
+- maths/divergence.md
