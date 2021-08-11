@@ -7,15 +7,11 @@ sections:
 - type: document
   path: chemistry
   label: chemistry
-  match: "**/*"
 - type: document
   path: maths_draft
   label: post
 - type: jekyll-posts
   label: Posts
-  create: all
-- type: jekyll-pages
-  label: Content
   create: all
 - type: directory
   path: maths

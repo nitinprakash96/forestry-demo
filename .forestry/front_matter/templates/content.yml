@@ -4,5 +4,3 @@ hide_body: false
 fields: []
 pages:
 - _posts/maths/2021-08-10-divergence.md
-- curl.md
-- greensTheorem.md
