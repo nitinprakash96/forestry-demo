@@ -5,6 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: chemistry
+  label: chemistry
+  match: "**/*"
+- type: document
   path: maths_draft
   label: post
 - type: jekyll-posts
